@@ -22,30 +22,30 @@
 ### Step one: Make an account on GitHub 
   https://github.com/signup
   
-  ![Porfile](profile)
+  ![Porfile](profile.jpg)
 
 ### Step two: Go to settings
 
-  ![Step-2](Step-2)
+  ![Step-2](Step-2.jpg)
   
 ### Step Three: Add the university email to your emails 
 
-  ![Step-3](Step-3)
+  ![Step-3](Step-3.jpg)
 
 ### Step Four: Go to Billing and licensing, then Education benefits, then Start an application 
 
-  ![Step-4](Step-4)
+  ![Step-4](Step-4.jpg)
 
-### Step Five: Here, GitHub automatically choose the university email -> choose Student
+### Step Five: Here, GitHub automatically chooses the university email -> choose Student
 
-  ![Step-5](Step-5)
+  ![Step-5](Step-5.jpg)
 
 ### Step Six: Upload your university ID   
 
-  ![Step-6](Step-6)
+  ![Step-6](Step-6.jpg)
 
 ### Step Seven: You should revive approval; if not, repeat Step 6, and then wait 3 days for it activate
-  ![Step-7](Step-7)
+  ![Step-7](Step-7.jpg)
 
 ------------------------------------------------------------------------
 
